@@ -1,0 +1,6 @@
+# Adding config.py file.
+api_keys.py
+
+# Ignore all .env files
+.png
+.csv
